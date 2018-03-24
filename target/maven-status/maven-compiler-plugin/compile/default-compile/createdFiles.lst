@@ -1,0 +1,4 @@
+com\saiMsg\Controller\HelloMessageController.class
+com\saiMsg\service\HelloMessageService.class
+com\saiMsg\Model\Message.class
+com\saiMsg\SpringBootConsoleApplication.class
